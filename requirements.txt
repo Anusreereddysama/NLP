@@ -1,6 +1,7 @@
 streamlit
-spacy
+spacy==3.7.2
 scikit-learn
 PyPDF2
 pandas
 sentence-transformers
+pydantic<2.0
